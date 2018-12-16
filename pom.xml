@@ -1,0 +1,33 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.mohamed265</groupId>
+	<artifactId>GA-RTS</artifactId>
+	<version>1.0.0</version>
+	<name>GA-RTS</name>
+
+	<description>implementation of GA-RTS Algorithm
+		published on: https://www.sciencedirect.com/science/article/pii/S0167739X18312810?via%3Dihub </description>
+	<url> http://github.com/mohamed265/GA-RTS </url>
+
+	<scm>
+		<url>https://github.com/mohamed265/GA-RTS</url>
+	</scm>
+
+	<developers>
+		<developer>
+			<name>Mohamed Fouad</name>
+			<email>mohamedfo265@gmail.com</email>
+			<roles>
+				<role>implementaion</role>
+			</roles>
+		</developer>
+	</developers>
+
+	<properties>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
+
+</project>
